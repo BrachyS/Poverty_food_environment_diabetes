@@ -34,6 +34,6 @@ Data file: [data_atlas](https://github.com/BrachyS/food-env-atlas/tree/master/da
 Final report:  
 Presentation slides:
 
-(Author's note: This is the first capstone project completed for my Data Science training with the **Springboard Data Science Career Track** education program.)  
+(Author's note: This is the first capstone project completed for my Data Science training with the **Springboard Data Science Career Track** education program based in San Francisco.)  
 
  
