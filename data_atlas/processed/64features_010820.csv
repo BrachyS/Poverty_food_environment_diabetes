@@ -1,0 +1,68 @@
+VarName,VarCode,r
+"Full-service restaurants/1,000 pop, 2014",FSRPTH14,-0.6996605214203149
+"Median household income, 2015",MEDHHINC15,-0.683194701894654
+"Direct farm sales per capita, 2012",PC_DIRSALES12,-0.5668677593323882
+"Agritourism receipts, 2012",AGRITRSM_RCT12,-0.5322382070790916
+"Grocery stores/1,000 pop, 2014",GROCPTH14,-0.5195399027212863
+"Specialized food stores/1,000 pop, 2014",SPECSPTH14,-0.5000285009716762
+"Recreation & fitness facilities/1,000 pop, 2014",RECFACPTH14,-0.4949978124222082
+"Price of sodas/national average, 2010**",SODA_PRICE10,-0.47125979942529955
+"Farms with direct sales (%), 2012",PCT_LOCLFARM12,-0.4671088676683049
+"Greenhouse vegetable and fresh herb farms, 2012",GHVEG_FARMS12,-0.4501327418313974
+"Expenditures per capita, restaurants, 2012*",PC_FSRSALES12,-0.43106253477453
+"Farmers' markets/1,000 pop, 2016",FMRKTPTH16,-0.4284193384753642
+"% Asian, 2010",PCT_NHASIAN10,-0.42303351123470384
+"CSA farms, 2012",CSA12,-0.4069711180769413
+"Greenhouse veg and fresh herb sq feet, 2012",GHVEG_SQFT12,-0.3950258464122202
+"Farms with direct sales, 2012",DIRSALES_FARMS12,-0.38557729871571006
+"Asian, low access to store (%), 2015",PCT_LACCESS_NHASIAN15,-0.3846308517686512
+"Direct farm sales, 2012",DIRSALES12,-0.3817043728105254
+"White, low access to store (%), 2015",PCT_LACCESS_WHITE15,-0.37820826593155776
+"Population, low access to store (%), 2015",PCT_LACCESS_POP15,-0.3596602180771221
+"Multiracial, low access to store (%), 2015",PCT_LACCESS_MULTIR15,-0.35898775329992405
+"% Hawaiian or Pacific Islander, 2010",PCT_NHPI10,-0.3577878456794064
+"Hawaiian or Pacific Islander, low access to store (%), 2015",PCT_LACCESS_NHPI15,-0.353426962788016
+"Farmers' markets that report selling baked/prepared food products, 2016",FMRKT_BAKED16,-0.34619815783789104
+"Children, low access to store (%), 2015",PCT_LACCESS_CHILD15,-0.34445246846316374
+"Farmers' markets that report accepting SNAP, 2016",FMRKT_SNAP16,-0.3438316094042316
+"Farmers' markets, 2016",FMRKT16,-0.3403834431393419
+"Farmers' markets that report accepting credit cards, 2016",FMRKT_CREDIT16,-0.3395971910036684
+"Farmers' markets that report selling other food products, 2016",FMRKT_OTHERFOOD16,-0.33334929415554876
+"Direct farm sales (%), 2012",PCT_LOCLSALE12,-0.33248665898402724
+"Specialized food stores, 2014",SPECS14,-0.3304112998931343
+"Farmers' markets that report selling fruit & vegetables, 2016",FMRKT_FRVEG16,-0.32929596335388384
+"Agritourism operations, 2012",AGRITRSM_OPS12,-0.3245251584722708
+"Farmers' markets that report selling animal products, 2016",FMRKT_ANMLPROD16,-0.3162847249238773
+"Farmers' markets that report accepting SFMNP, 2016",FMRKT_SFMNP16,-0.304175009339233
+"National School Lunch Program participants (change % pop), 2009-15*",PCH_NSLP_09_15,-0.300971559282995
+"Food hubs, 2016",FOODHUB16,-0.29840978147027475
+"% Hispanic, 2010",PCT_HISP10,-0.29701515020804103
+"Vegetable farms, 2012",VEG_FARMS12,-0.29647491160063516
+"Farmers' markets that report accepting WIC, 2016",FMRKT_WIC16,-0.2946673613667674
+"Farms with vegetables harvested for fresh market, 2012",FRESHVEG_FARMS12,-0.28895437381039046
+"Full-service restaurants, 2014",FSR14,-0.2836412948745959
+"American Indian or Alaska Native, low access to store, 2015",LACCESS_NHNA15,-0.282259225164693
+"SNAP participants (change % pop), 2012-16*",PCH_SNAP_12_16,-0.28133080410605693
+"Farmers' markets that report accepting WIC Cash, 2016",FMRKT_WICCASH16,-0.2806559883151387
+"Seniors, low access to store (%), 2015",PCT_LACCESS_SENIORS15,-0.27708553420191256
+"Black, low access to store, 2015",LACCESS_BLACK15,0.30314979839354145
+"Price of low-fat milk/price of sodas, 2010**",MILK_SODA_PRICE10,0.3299414978898005
+"Convenience stores/1,000 pop, 2014",CONVSPTH14,0.3317651681305653
+"SNAP benefits per capita, 2015",PC_SNAPBEN15,0.35961600904998536
+"Expenditures per capita, fast food, 2012*",PC_FFRSALES12,0.3652097207914062
+"WIC participants (% pop), 2015*",PCT_WIC15,0.38626498604404486
+"Household very low food security (%, three-year average), 2013-15*",VLFOODSEC_13_15,0.45453697484015376
+"Household food insecurity (%, three-year average), 2013-15*",FOODINSEC_13_15,0.45582774704568596
+"SNAP participants (% pop), 2016*",PCT_SNAP16,0.4777957897672596
+"WIC redemptions per capita, 2012",PC_WIC_REDEMP12,0.4895233159297689
+"National School Lunch Program participants (% pop), 2015*",PCT_NSLP15,0.49076499079774966
+"Supercenters & club stores/1,000 pop, 2014",SUPERCPTH14,0.5772194524749384
+"School Breakfast Program participants (% pop), 2015*",PCT_SBP15,0.578390589507184
+"Black, low access to store (%), 2015",PCT_LACCESS_BLACK15,0.6149042732934676
+"Students eligible for free lunch (%), 2014",PCT_FREE_LUNCH14,0.6307820736326761
+"% Black, 2010",PCT_NHBLACK10,0.6510792156981831
+"SNAP-authorized stores/1,000 pop, 2016",SNAPSPTH16,0.6706409346420588
+"Child poverty rate, 2015",CHILDPOVRATE15,0.6793670019637384
+"Poverty rate, 2015",POVRATE15,0.6830689218820442
+"Households, no car & low access to store (%), 2015",PCT_LACCESS_HHNV15,0.7230124730941462
+"Adult obesity rate, 2013",PCT_OBESE_ADULTS13,0.8341078611265854
