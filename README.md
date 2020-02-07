@@ -29,7 +29,7 @@ A suite of machine learning algorithms will be used to address the above questio
  - K-means clustering  
  
 ### Files
-Code can be accessed here: [Final_food-poverty-diabetes.ipynb](https://github.com/BrachyS/food-env-atlas/blob/master/Final_food-poverty-diabetes.ipynb)  
+Code can be accessed here: [Final_food-poverty-diabetes.ipynb](https://github.com/BrachyS/Poverty_food_environment_diabetes/blob/master/Final_food-poverty-diabetes.ipynb)  
 Data file: [data_atlas](https://github.com/BrachyS/food-env-atlas/tree/master/data_atlas)    
 Final report:  
 Presentation slides:
