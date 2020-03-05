@@ -31,8 +31,8 @@ A suite of machine learning algorithms will be used to address the above questio
 ### Files
 Code can be accessed here: [Final_food-poverty-diabetes.ipynb](https://github.com/BrachyS/Poverty_food_environment_diabetes/blob/master/Final_food-poverty-diabetes.ipynb)  
 Data file: [data_atlas](https://github.com/BrachyS/food-env-atlas/tree/master/data_atlas)    
-Final report:  
-Presentation slides:
+Final report:  [final_report.docx](https://github.com/BrachyS/Poverty_food_environment_diabetes/blob/master/final_report.docx)
+Presentation slides: [PresentationSlides.pdf](https://github.com/BrachyS/Poverty_food_environment_diabetes/blob/master/PresentationSlides.pdf)
 
 (Author's note: This is the first capstone project completed for my Data Science training with the **Springboard Data Science Career Track** education program based in San Francisco.)  
 
