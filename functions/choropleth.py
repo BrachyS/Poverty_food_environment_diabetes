@@ -9,3 +9,6 @@ def counties_choropleth(assignment, color, fip, name):
 
     fig.show()
     return fig
+
+
+#multiples: 42 -> (2*3*7), 100 -> (2,2,5,5)

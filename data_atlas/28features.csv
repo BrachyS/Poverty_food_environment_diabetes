@@ -1,0 +1,29 @@
+VarName,VarCode,r,ShortName
+"Full-service restaurants/1,000 pop, 2014",FSRPTH14,-0.6996605214203149,"Full-service restaurants/1,000 pop"
+"Median household income, 2015",MEDHHINC15,-0.683194701894654,Median household income
+"Direct farm sales per capita, 2012",PC_DIRSALES12,-0.5668677593323882,Direct farm sales per capita
+"Agritourism receipts, 2012",AGRITRSM_RCT12,-0.5322382070790916,Agritourism receipts
+"Grocery stores/1,000 pop, 2014",GROCPTH14,-0.5195399027212863,"Grocery stores/1,000 pop"
+"Specialized food stores/1,000 pop, 2014",SPECSPTH14,-0.5000285009716762,"Specialized food stores/1,000 pop"
+"Recreation & fitness facilities/1,000 pop, 2014",RECFACPTH14,-0.4949978124222082,"Recreation & fitness facilities/1,000 pop"
+"Price of sodas/national average, 2010**",SODA_PRICE10,-0.47125979942529955,Price of sodas/national average
+"Farms with direct sales (%), 2012",PCT_LOCLFARM12,-0.4671088676683049,Farms with direct sales (%)
+"Greenhouse vegetable and fresh herb farms, 2012",GHVEG_FARMS12,-0.4501327418313974,Greenhouse vegetable and fresh herb farms
+"Expenditures per capita, restaurants, 2012*",PC_FSRSALES12,-0.43106253477453,"Expenditures per capita, restaurants"
+"Farmers' markets/1,000 pop, 2016",FMRKTPTH16,-0.4284193384753642,"Farmers' markets/1,000 pop"
+"CSA farms, 2012",CSA12,-0.4069711180769413,CSA farms
+"Population, low access to store (%), 2015",PCT_LACCESS_POP15,-0.3596602180771221,"Population, low access to store (%)"
+"Vegetable farms, 2012",VEG_FARMS12,-0.29647491160063516,Vegetable farms
+"Farms with vegetables harvested for fresh market, 2012",FRESHVEG_FARMS12,-0.28895437381039046,Farms with vegetables harvested for fresh market
+"Price of low-fat milk/price of sodas, 2010**",MILK_SODA_PRICE10,0.3299414978898005,Price of low-fat milk/price of sodas
+"Convenience stores/1,000 pop, 2014",CONVSPTH14,0.3317651681305653,"Convenience stores/1,000 pop"
+"Expenditures per capita, fast food, 2012*",PC_FFRSALES12,0.3652097207914062,"Expenditures per capita, fast food"
+"Household food insecurity (%, three-year average), 2013-15*",FOODINSEC_13_15,0.45582774704568596,"Household food insecurity (%, three-year average)"
+"SNAP participants (% pop), 2016*",PCT_SNAP16,0.4777957897672596,SNAP participants (% pop)
+"National School Lunch Program participants (% pop), 2015*",PCT_NSLP15,0.49076499079774966,National School Lunch Program participants (% pop)
+"Supercenters & club stores/1,000 pop, 2014",SUPERCPTH14,0.5772194524749384,"Supercenters & club stores/1,000 pop"
+"School Breakfast Program participants (% pop), 2015*",PCT_SBP15,0.578390589507184,School Breakfast Program participants (% pop)
+"Students eligible for free lunch (%), 2014",PCT_FREE_LUNCH14,0.6307820736326761,Students eligible for free lunch (%)
+"SNAP-authorized stores/1,000 pop, 2016",SNAPSPTH16,0.6706409346420588,"SNAP-authorized stores/1,000 pop"
+"Poverty rate, 2015",POVRATE15,0.6830689218820442,"Poverty rate, 2015"
+"Households, no car & low access to store (%), 2015",PCT_LACCESS_HHNV15,0.7230124730941462,"Households, no car & low access to store (%)"
